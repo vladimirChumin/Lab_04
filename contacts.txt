@@ -1,1 +1,2 @@
 Контактная информация
+Email: example@example.com
